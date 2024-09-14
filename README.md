@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GesaXB
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me Learning,Learning,and Learning
+- 📫 How to reach me Contact My Social Media
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love SOMEONE
 
