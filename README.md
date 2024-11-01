@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me Contact My Social Media
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love SOMEONE
 
 <!---
 GesaXB/GesaXB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
