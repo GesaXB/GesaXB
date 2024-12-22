@@ -1,13 +1,24 @@
+# Hi there, I'm Geisha! 👋  
 
----
+I'm a **Junior Web Developer** passionate about crafting responsive and dynamic web applications. I specialize in **Python**, **JavaScript**, **PHP**, **HTML**, and **CSS**, with experience in the following frameworks:  
 
-**💻 Junior Web Developer | Tech Enthusiast | AI Explorer**  
+- **Django** (Backend Development)  
+- **Laravel** (PHP Framework)  
+- **React.js** (Frontend Development)  
 
-Hi there! 👋 I'm Geisha, a passionate junior web developer eager to build innovative web solutions. My focus lies in crafting robust and efficient applications using:  
+💻 **What I Do**  
+- Build **web applications** with clean and maintainable code.  
+- Work on projects that integrate **modern frameworks** to deliver excellent user experiences.  
+- Always learning and exploring new tools to improve my skills.  
 
-✨ **Backend**: Django | Laravel  
-✨ **Frontend**: React.js  
+🤖 **Areas of Interest**  
+I'm also exploring the world of **Machine Learning** and am excited about its potential in creating smarter applications.  
 
-I'm also exploring the exciting world of **machine learning**, combining data-driven insights with modern web technologies to create smarter applications.  
+📂 **Portfolio Projects**  
+Check out some of my projects [here](#)!  
 
-🔗 Let's collaborate on meaningful projects and learn together! 🚀  
+🌟 **Let's Collaborate**  
+If you're interested in collaborating or have opportunities, feel free to reach out!  
+
+📧 Email: your_email@example.com  
+📄 [Resume/CV](#)  
