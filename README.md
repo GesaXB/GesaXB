@@ -15,10 +15,4 @@ I'm a **Junior Web Developer** passionate about crafting responsive and dynamic 
 I'm also exploring the world of **Machine Learning** and am excited about its potential in creating smarter applications.  
 
 📂 **Portfolio Projects**  
-Check out some of my projects [here](#)!  
-
-🌟 **Let's Collaborate**  
-If you're interested in collaborating or have opportunities, feel free to reach out!  
-
-📧 Email: your_email@example.com  
-📄 [Resume/CV](#)  
+Check out some of my projects!  
