@@ -56,4 +56,14 @@
 
 ## 📫 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/geisha-lutfan-waldhani-284128304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/geisha-lutfan-waldhani-284128304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+## 🌐 Visit My Website  
+<p align="center">
+  <a href="https://gesaportofolioo.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
