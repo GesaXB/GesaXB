@@ -53,4 +53,4 @@ Currently exploring **Solidity** and smart contract development.
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/geisha-lutfan-waldhani-284128304/)  
-- [Portfolio](https://gesaxb.github.io/GesaPortofolio/)  
+- [Portfolio](https://www.gesa.my.id/)  
