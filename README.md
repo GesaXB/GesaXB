@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Geisha
 
-**Fullstack Developer | Web3 Enthusiast**
+**Fullstack Developer **
 
 I build web apps with **JavaScript, TypeScript, React, Express, Laravel** and databases like **MongoDB, MySQL, Prisma**.  
 Currently exploring **Solidity** and smart contract development.  
